@@ -40,7 +40,7 @@ PROFILES_PATH = '/Users/dolgoarsinnyhdmitrij/Library/Application Support/Google/
 EXTENTION_IDENTIFIER = 'nkbihfbeogaeaoehlefnkodbefgpgknn'
 EXTENTION_VERSION = '12.5.0_0'
 EXTENTION_PATH = f'{PROFILE_PATH}/Extensions/{EXTENTION_IDENTIFIER}/{EXTENTION_VERSION}'
-MM_PASS = 'QAZ159dima!'
+MM_PASS = '***********'
 # SLOW_MO = None
 SLOW_MO = 200
 

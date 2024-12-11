@@ -133,4 +133,3 @@ async def bridge_to_unichain(wallets: Wallet, multiplier: float = 0.5):
         except:
             logger.warning('Transaction is not in the chain after 600 seconds')
             continue
-
